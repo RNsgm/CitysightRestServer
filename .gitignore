@@ -1,8 +1,8 @@
-.vscode/
-.mvn/
-unnamed/
-target/
-.idea/
+.vscode*
+.mvn*
+unnamed*
+target*
+.idea*
 HELP.md
 mvnw
 mvnw.cmd
